@@ -1,5 +1,3 @@
 venv
 .git
-db.sqlite3
-env_taski_docker
-.env
+db.sqlite3 
